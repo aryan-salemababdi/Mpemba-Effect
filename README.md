@@ -71,3 +71,16 @@ The project is structured into two separate Jupyter Notebooks.
 
 3.  **Step 2: Train the KAN Model**
     Once the data is generated, open and run all cells in the `train_model.ipynb` notebook. This will load the data, train the KAN, and save the resulting pruned
+
+
+---
+
+## Technologies Used
+* Python
+* Jupyter Notebook
+* PyTorch
+* PyKAN
+* NumPy & Pandas
+* Scikit-learn
+* Matplotlib
+* Git & GitHub
