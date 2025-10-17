@@ -52,7 +52,7 @@ The final architecture of the network points to a definitive conclusion.
 
 2.  **The Role of Initial Temperature:** In contrast, the direct link from the initial temperature (`T_initial`) was severely weakened or entirely removed.
 
-This is the central finding of my investigation. The KAN concluded that the initial temperature is not the direct cause of the phenomenon. Instead, it's an **enabling factor** that amplifies the true drivers: **non-linear convection** and **evaporation**. The model independently rediscovered the core concepts of the leading physical theories explaining the effect. The attempt to extract a single symbolic formula failed, which itself is a significant result, suggesting that the parameter interactions are too complex to be captured by a simple algebraic expression.
+This is the central finding of our investigation. The KAN concluded that the initial temperature is not the direct cause of the phenomenon. Instead, it's an **enabling factor** that amplifies the true drivers: **non-linear convection** and **evaporation**. The model independently rediscovered the core concepts of the leading physical theories explaining the effect. The attempt to extract a single symbolic formula failed, which itself is a significant result, suggesting that the parameter interactions are too complex to be captured by a simple algebraic expression.
 
 ---
 
