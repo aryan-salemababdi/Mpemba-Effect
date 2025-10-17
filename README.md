@@ -62,7 +62,7 @@ The project is structured into two separate Jupyter Notebooks.
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/aryan-salemababdi/Mpemba-Effect.git
     cd mpemba-effect
     ```
 
