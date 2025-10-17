@@ -43,6 +43,7 @@ The most critical step was using the network's **pruning** capability. After tra
 The pruned KAN model provided a clear and insightful result, effectively acting as an unbiased scientific analyst.
 
 ![Final Pruned KAN Model](./output.png)
+![Final Pruned KAN Model](./output2.png)
 
 ### Interpretation of the Model
 
